@@ -14,6 +14,7 @@ ___
 * CSS
 * Git
 * Python
+* JavaScript(Basic)
 ___
 ## Code Example
 ```
